@@ -14,7 +14,7 @@ const MohammadSadeghi = {
         backEnd: {             
           frameworks: ["Express.js", "Nest.js"],                   
           microServiceTools: ["gRPC", "RabbitMQ"],
-          realTimeTools: ["socket.io", "webSocket"],
+          realTimeTools: ["socket.io"],
           DataBases: ["MongoDB", "MySQL", "Redis"],
           architectures: ["MVC", "clean", "SOLID"],
           API: ["postman", "swagger"],
