@@ -14,7 +14,6 @@ const MohammadSadeghi = {
           DataBases: ["MongoDB", "MySQL", "Redis"],
           architectures: ["MVC","clean", "SOLID"],
           API: ["postman","swagger"],
-          
         },         
         frontEnd: {             
           web: ["i'm not front-end developer 😁😁😁", "My friends call me a bug fixer 😂"],         
