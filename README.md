@@ -1,6 +1,6 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I am a web Developer and software engineer from Karaj 
+I am a web Developer and software engineer
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -15,14 +15,11 @@ const MohammadSadeghi = {
           frameworks: ["Express.js", "Nest.js"],                   
           microServiceTools: ["gRPC", "RabbitMQ"],
           realTimeTools: ["socket.io"],
-          DataBases: ["MongoDB", "MySQL", "Redis"],
+          DataBases: ["MongoDB", "PostgreSql", "Redis"],
           architectures: ["MVC", "clean", "SOLID"],
           API: ["postman", "swagger"],
           
-        },         
-        frontEnd: {             
-          web: ["i'm not front-end developer 😁😁😁", "My friends call me a bug fixer 😂"],         
-        },                    
+        }                  
    },    
    currentFocus: "Node.js Web Development",     
    funFact: "Bug's and Errors are my best friends" 
